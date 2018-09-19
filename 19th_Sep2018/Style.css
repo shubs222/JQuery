@@ -1,0 +1,43 @@
+﻿body {
+    background-image: url('sample1.jpg');
+    
+    background-size:100%;
+}
+.centerDiv {
+    margin: auto;
+    width: 50%;
+}
+.CenterForm {
+    margin: auto;
+    width: 50%;
+}
+.head1new {
+    color: blue;
+}
+
+.head2new {
+    color: red;
+}
+.head3new1{
+    color:yellow;
+}
+.head3new2 {
+    color:blue;
+}
+.container {
+    width: 100%;
+   
+    margin: auto;    
+}
+table {
+    border-collapse:collapse; 
+}
+tr {
+    border-left: 1px solid grey;
+    border-right: 1px solid grey;
+    border-bottom: 1px solid grey;
+}
+
+td {
+    padding: 10px;
+}
